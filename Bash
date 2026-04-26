@@ -1,0 +1,10 @@
+finance-ai-app/
+  app/
+    page.tsx
+    layout.tsx
+    globals.css
+  package.json
+  tailwind.config.ts
+  postcss.config.js
+  tsconfig.json
+  next.config.js
